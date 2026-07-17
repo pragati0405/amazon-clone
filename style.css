@@ -5,7 +5,14 @@
     
  }
    
-
+.disclaimer{
+    background:#fff3cd;
+    color:#856404;
+    padding:12px;
+    text-align:center;
+    font-size:14px;
+    font-weight:600;
+}
  .navbar{
     height:60px;
     width: 100%;
